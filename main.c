@@ -8,6 +8,6 @@ int main(void)
 {
  
   printf("adsfwdfdg  ");
- printf("  ");
+  printf(" hallo welt2 ");
   return 0;
 }
