@@ -6,7 +6,7 @@
 
 int main(void)
 {
- 
+ printf("luaegfrpoiüoijer!!!!  ");
   printf("adsfwdfdg  ");
 
   return 0;
