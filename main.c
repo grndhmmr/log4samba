@@ -8,6 +8,6 @@ int main(void)
 {
  
   printf("adsfwdfdg  ");
-  printf(" gelöscht! ");
+
   return 0;
 }
